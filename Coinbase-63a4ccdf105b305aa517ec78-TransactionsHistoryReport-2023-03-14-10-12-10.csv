@@ -1,0 +1,10 @@
+"You can use this transaction report to inform your likely tax obligations. For US customers, Sells, Converts, Rewards Income, Learning Rewards, and Donations are taxable events. For final tax obligations, please consult your tax advisor."
+
+
+
+Transactions
+User,kmgrc23@gmail.com,63a4ccdf105b305aa517ec6d
+
+Timestamp,Transaction Type,Asset,Quantity Transacted,Spot Price Currency,Spot Price at Transaction,Subtotal,Total (inclusive of fees and/or spread),Fees and/or Spread,Notes
+2023-03-14T05:56:53Z,Buy,MATIC,1.78858125,USD,1.19,2.12,3.11,0.990000,Bought 1.78858125 MATIC for $3.11 USD
+2023-03-14T05:57:12Z,Send,MATIC,1.78858125,USD,1.17,"","","",Sent 1.78858125 MATIC to 0xc7526328EbBa51D9a4D74f058A336aB1236e6c25
